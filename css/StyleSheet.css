@@ -1,0 +1,32 @@
+body {
+    background-color: #bfc4c2;
+}
+
+header{
+    margin: 0 auto;
+    position: relative;
+    height: 165px;
+    background-color: lime;
+    max-width: 1024px;
+}
+
+.page{
+    position: relative;
+    font-family: Calibri; 
+    max-width: 1024px;
+    margin: 0 auto; 
+}
+
+
+footer{
+    bottom: 0;
+    max-width: 1024px;
+}
+
+.imgHeader {
+    width: 200px;
+    position: relative;
+    float: right;
+    top: 15px;
+    right: 15px;
+}
