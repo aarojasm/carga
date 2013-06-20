@@ -1,37 +1,30 @@
 body {
-    background-color: #bfc4c2;
+    /*background-color: #bfc4c2;*/
+    background-color: white;
 }
-
 header{
     margin: 0 auto;
     position: relative;
+    height: 165px;
     background-color: lime;
-    max-width: 1024px;
-    height: 10em;
-}
-.lblHeader{
-    font-family: Calibri;
-    font-size: 3.0em;
-    float: left;
-    margin-left: 10%;
-    margin-top: 3%;
+    max-width: 600px;
 }
 
 .page{
     position: relative;
     font-family: Calibri; 
-    max-width: 1024px;
+    max-width: 600px;
     margin: 0 auto; 
 }
 
 
 footer{
     bottom: 0;
-    max-width: 1024px;
+    max-width: 600px;
 }
 
 .imgHeader {
-    width: 12em;
+    width: 200px;
     position: relative;
     float: right;
     top: 15px;

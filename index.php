@@ -7,7 +7,8 @@
     <head>
         <meta charset="utf-8" />
         <title>Carga de Archivos</title>
-        <link rel="stylesheet" href="./css/StyleSheet.css" type="text/css"/>
+        <link rel="stylesheet" href="./css/StyleSheet.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="./css/StyleMobile.css" type="text/css" media="handheld" />
     </head>
     <body>
         <?php include './include/encabezado.html';?>
